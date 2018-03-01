@@ -1,0 +1,27 @@
+#navbar {
+  background-color: #efefef;
+}
+#navbar #collapsibleNavbar #navbarList {
+  padding-left: 245px;
+  line-height: 0.2;
+}
+#navbar #collapsibleNavbar #navbarList .nav-item {
+  color: #6b737a;
+  font-family: "OpenSans";
+  font-size: 15px;
+}
+#navbar #collapsibleNavbar #navbarList #club-card {
+  padding-left: 50px;
+}
+#navbar #collapsibleNavbar #navbarList #schedule {
+  padding-left: 56px;
+}
+#navbar #collapsibleNavbar #navbarList #news {
+  padding-left: 63px;
+}
+#navbar #collapsibleNavbar #navbarList #actions {
+  padding-left: 66px;
+}
+#navbar #collapsibleNavbar #navbarList #contacts {
+  padding-left: 68px;
+}
